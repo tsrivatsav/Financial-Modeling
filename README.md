@@ -1,5 +1,6 @@
-# Stock-Investment-Basics
+# A Comparative Analysis of Investment Strategies on the Tech Sector Index: A Model-Based Approach
 
-This is a project that aims to compare the historical performance of common stock investment strategies
-on various stock indices. We also compare those strategies to the performance of different Machine Learning model architectures to see if we can yield any improvement in performance. Overall, we examine
-some basic methods that one might think of. 
+This project aims to compare the historical performance of common financial models
+on the NASDAQ-100 Technology Sector Index (^NDXT). We also compare those strategies to the performance of various Machine Learning model architectures to see if we can yield any improvement in performance. Overall, we examine some basic methods that one might think of. 
+
+We first consider a ***Geometric Brownian Motion (GBM)*** model in `gbm.ipynb`.
